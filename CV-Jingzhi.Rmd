@@ -58,7 +58,7 @@ Cat-obsessed personality. Thrilling to introduce my magic cat----Mr. Ginger (Fig
 
 ```{r echo=FALSE, fig.cap="BELOVED PET: Figure 2.", out.width = '30%'}
 
-knitr::include_graphics("./IMG_3465.JPG")
+knitr::include_graphics("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkg-307JO6AHvZVx8999lW46CWnwCPcBqgMA&usqp=CAU")
 
 ```
 
