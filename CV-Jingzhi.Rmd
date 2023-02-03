@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <p style="text-align:center;">
-#Jingzhi Zhang
+# Jingzhi Zhang
 </p>
 
 ## Education
