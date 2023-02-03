@@ -10,7 +10,7 @@ CV-Jingzhi
 *Virgin Road Primary School*
 
 <p style="text-align:right;">
-··················2006-2012
+··················2005-2012
 </p>
 
 *Hogwarts School of Wizrdcraft and Wizardry* Ravenclaw Bachelor in
